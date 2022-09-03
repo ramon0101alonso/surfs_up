@@ -3,7 +3,7 @@
 ## Overview of June and December weather in Oahu.
 ##### In order to find out if running a yearly successful surf and ice cream in Oahu is feasible, I created an analysis of June and December's weather.  January and April's weather was also included to increase the range of the analysis.
 
-##Analysis Results.
+## Analysis Results.
 The weather temperature pattern drops in the second half of the year.  The charts below show the following:
 - The maximum temperature drops to 83 degrees in December.
 - The third quartile hold temperature in the high 70s.
