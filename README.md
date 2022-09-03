@@ -5,7 +5,7 @@
 
 ##Analysis Results.
 
-![image one](url)
+![image one](https://github.com/ramon0101alonso/surfs_up/blob/main/June%20Temps.png)
 
 ##Summary
 
