@@ -13,5 +13,5 @@ The weather temperature pattern drops in the second half of the year.  The chart
 
 
 ## Summary
-Running a successful, profitable surf and ice cream shop in Oahu is a good investment.  After doing two additional queries for the month of January and April, I can come to the conclusion that the weather will have consistent sunny skies.  There is no reason to not open in Oahu.
+Running a successful, profitable surf and ice cream shop in Oahu is a good investment.  After doing two additional queries for the month of January and April, I can conclude that the weather will have consistent sunny skies.  There is no reason to not open in Oahu.
 
